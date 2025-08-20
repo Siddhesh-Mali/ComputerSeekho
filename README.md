@@ -12,7 +12,7 @@ Both versions share the same **MySQL database schema** and modular architecture.
 ---
 
 ## 🎬 Project Demo  
-👉 [Watch Full Demo on YouTube](https://youtu.be/sLTlw-gfcso)  
+👉 [Watch Full Demo](https://drive.google.com/file/d/10oDXkEUR1m6ayhAxNaxMBL8CzHeKM-82/view?usp=sharing)  
 
 ---
 
